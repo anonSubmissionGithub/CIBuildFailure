@@ -5,3 +5,4 @@ The ipynb file contains the required scripts to fetch data from SmartSHARK datab
 https://github.com/smartshark/usage-examples
 
 # Output files contains our results using SPSS
+# IssuewiseResult file contains our dataset

@@ -1,4 +1,3 @@
-# MSR2023
 The ipynb file contains the required scripts to fetch data from SmartSHARK database.
 
 Output files contains our results using SPSS.

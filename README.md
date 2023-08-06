@@ -1,4 +1,4 @@
-The ipynb file contains the required scripts to fetch data from SmartSHARK database.
+generateData.ipynb file contains the required scripts to fetch data from SmartSHARK database.
 
 Output files contains our results using SPSS.
 
